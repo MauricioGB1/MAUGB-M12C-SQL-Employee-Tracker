@@ -21,11 +21,13 @@
 },
 
 "homepage": "https://github.com/MauricioGB1/MAUGB-M12C-SQL-Employee-Tracker/blob/main/README.md",
-"dependencies" {
+"dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
-    "mysql": "^2.18.1",
     "express": "^4.17.1",
-    "mysql2": "^2.2.5"
-}
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+ },
+
+ "devDependencies": {}
 }
