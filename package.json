@@ -1,33 +1,22 @@
 {
-    "name": "m12c-sql-employee-tracker",
-    "version": "1.0.0",
-    "main": "server.js",
-    "description": "",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js"
-},
+  "name": "mysql-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
 
-"repository": {
-    "type": "git",
-    "url": "git+https://github.com/MauricioGB1/MAUGB-M12C-SQL-Employee-Tracker.git"
-},
-
-"keywords": [],
-"author": "",
-"license": "MIT",
-"bugs": {
-   "url": "https://github.com/MauricioGB1/MAUGB-M12C-SQL-Employee-Tracker/issues"
-},
-
-"homepage": "https://github.com/MauricioGB1/MAUGB-M12C-SQL-Employee-Tracker/blob/main/README.md",
-"dependencies": {
+  "author": "",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/MauricioGB1/MAUGB-M12C-SQL-Employee-Tracker/issues"
+  },
+  
+  "homepage": "https://github.com/MauricioGB1/MAUGB-M12C-SQL-Employee-Tracker/blob/main/README.md",
+  "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^8.2.4",
-    "express": "^4.17.1",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.3.5"
- },
-
- "devDependencies": {}
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
 }
