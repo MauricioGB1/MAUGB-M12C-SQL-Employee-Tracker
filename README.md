@@ -56,7 +56,7 @@ Use the file server.js
 Run node server to start the application; application will run locally on the indicated port.
 
 DEMO VIDEO  Link:
-
+https://github.com/MauricioGB1/MAUGB-M12C-SQL-Employee-Tracker/tree/main/video
 
 
 How to Use the application 
