@@ -30,9 +30,9 @@ VALUES
 ("Maria", "Hurst", 6, 2),
 ("Gary", "Smith", 3, null),
 ("Kimberly", "Hayes", 4, 6),
-("Matt", "Hardy", 1, 1);
-("William", "Chapman", 5, null),
-("Shad", "Zemler", 6, 2),
+("Matt", "Hardy", 1, 1),
+("William", "Chapman", 1, null),
+("Shad", "Zemler", 4, 2),
 ("Bryan", "Smith", 3, null),
 ("Julia", "Roberts", 4, 6),
 ("Laura", "Stroike", 1, 1);

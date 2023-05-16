@@ -38,7 +38,7 @@ Manage use input thru inquirer.
 
 ## Installation
 
-This Program can run using on the local terminal hoist location (local port).
+This Program can run using on the local terminal host location (local port).
 
 
 - This program runs under Node.js and MySQL.  
@@ -64,18 +64,28 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 Start SQL Employee Tracker Application 
 
-Main Application 
+Main Application
+
 ![alt text](assets/image1A.jpg)
 
-Options Menue
+
+
+
+Options Menu
+
+
 ![alt text](assets/image1.jpg)
+
 
 
 Table with All Employees
 
+
 ![alt text](assets/image2.jpg)
 
+
 Table with All Departments
+
 
 ![alt text](assets/image3.jpg)
 
@@ -84,17 +94,23 @@ Table with All Roles
 
 ![alt text](assets/image4.jpg)
 
+
 Changing Employee Role
+
 
 ![alt text](assets/image5.jpg)
 
 
+
 Adding a New Department 
+
 
 ![alt text](assets/image6.jpg)
 
 
+
 Removing an  Employee
+
 
 ![alt text](assets/image7.jpg)
 
